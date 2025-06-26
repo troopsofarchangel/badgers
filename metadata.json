@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Badges de Conquistas",
+  "description": "Crie e gerencie badges digitais para reconhecer conquistas e competências. Os badges são baseados na Open Badge Specification, verificáveis e facilmente compartilháveis.",
+  "requestFramePermissions": []
+}
